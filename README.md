@@ -2,11 +2,11 @@
 
 ## Preview
 
-[![preview](./public/images/preview.png)]()
+[![preview](./public/images/preview.png)](https://maximzyuzin.github.io/calculator-react)
 
 ## URL
 
-[<img alt="URL" width="20px" src="./public/images/calc-logo.png"/>  Calculator on React]()
+[<img alt="URL" width="20px" src="./public/images/calc-logo.png"/>  Calculator on React](https://maximzyuzin.github.io/calculator-react)
 
 ## Developer
 
